@@ -1,0 +1,8 @@
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\bin\Release\tsvOdpirac.exe
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\bin\Release\tsvOdpirac.pdb
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\obj\Release\tsvOdpirac.Form1.resources
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\obj\Release\tsvOdpirac.Properties.Resources.resources
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\obj\Release\tsvOdpirac.csproj.GenerateResource.Cache
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\obj\Release\tsvOdpirac.exe
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\obj\Release\tsvOdpirac.pdb
+d:\Users\kv1dr\Documents\Visual Studio 2015\Projects\tsvOdpirac\tsvOdpirac\obj\Release\tsvOdpirac.csprojResolveAssemblyReference.cache
